@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I work at the intersection of artificial intelligence and medical field. My goal is to make treatment more convenient and intelligent.
 
-- 🎓 I am an undergraduate in Institute of Artificial Intelligence at [Soochow University](https://eng.suda.edu.cn/) and also a research intern in [Airdoc](https://www.airdoc.com/english/index.html), Shanghai.
+- 🎓 I am an undergraduate in [Institute of Artificial Intelligence](http://iai.suda.edu.cn/) at [Soochow University](https://eng.suda.edu.cn/) and also a research intern in [Airdoc](https://www.airdoc.com/english/index.html), Shanghai.
 - 🤖 My research includes methods and applications of medical imaging, natural language processing and multimodal learning.
 - ⚡ Soon I will join the [Monash Medical AI Group (MMAI)](https://www.monash.edu/mmai-group) as a Ph.D student at [Monash University](https://www.monash.edu/), advised by A/Prof. [Zongyuan Ge](https://zongyuange.github.io/).
 
