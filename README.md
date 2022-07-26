@@ -24,3 +24,5 @@ I work at the intersection of artificial intelligence and medical field. My goal
 - ⚡ Soon I will join the [Monash Medical AI Group (MMAI)](https://www.monash.edu/mmai-group) as a Ph.D student at [Monash University](https://www.monash.edu/), advised by A/Prof. [Zongyuan Ge](https://zongyuange.github.io/).
 
 If it sounds like we might get along, [hit me up](mailto:richardxp888@gmail.com).
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Richard88888&show_icons=true&icon_color=000000&text_color=000000&bg_color=ffffff&hide_title=false&title_color=000000?count_private=true&include_all_commits=true" />
